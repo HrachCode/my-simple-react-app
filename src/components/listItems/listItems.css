@@ -1,0 +1,40 @@
+.phoneImg img{
+    width: 100px;
+    height:76px;
+}
+.phoneImg img{
+    margin-bottom: -4px;
+}
+
+.kk{
+    font-size: 29px;
+    padding-left: 37px;
+    padding-right: 30px;
+    font-family: fantasy;
+
+}
+#price{
+    font-size: 20px;
+    font-family: monospace;
+    color: darkmagenta;
+}
+.shopBascet{
+    margin: 0 15%;
+}
+.controlers{
+    margin-left: 10px;
+    width: 197px;
+}
+.controlers span{
+    padding: 5px;
+
+}
+.amaunt{
+    color: red;
+    font-family: cursive;
+}
+
+.trash .fas{
+    color: #573fdc !important;
+    cursor: pointer;
+}

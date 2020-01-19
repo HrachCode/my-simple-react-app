@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #ededed;
+}
+@media screen and  (max-width: 885px)   {
+
+
+  .footeritems{
+    width: 200px;
+  }
+  h1{
+    font-size:35px;
+  }
+
+}
+@media screen and  (max-width: 1330px)   {
+  .items{
+
+    margin:10px 10px;
+
+  }
+  .controlers {
+
+    width: 24%;
+  }
+}
+
+@media screen and  (max-width: 928px)   {
+
+
+  .items{
+    width: 100%;
+    margin-top: 10px;
+
+  }
+  .leftchapter>h4{
+    font-size: 18px;
+  }
+  .footeritems{
+    width: 200px;
+  }
+
+}
+
+@media screen and  (max-width: 544px)   {
+
+  .leftchapter{
+    display: none;
+  }
+  .hederContent{
+    text-align: center;
+  }
+
+}

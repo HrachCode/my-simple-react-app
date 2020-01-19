@@ -1,0 +1,75 @@
+.items>h1{
+    color: #2f549b;
+    margin-top: 30px;
+}
+.items>h4{
+    color: #2f549b;
+    margin: 10px;
+}
+.items>h5{
+    color: #909090;
+    font-size: 14px;
+    margin: 20px;
+}
+.items>h6{
+    padding-top:  20px;
+}
+.items>h6>a{
+    color: #242022;
+    font-size: 14px;
+}
+.items:hover{
+    background: #2f549b;
+    color: #fff;
+}
+.items:hover>h1 {
+
+    color: #fff;
+}
+.items:hover>h4{
+
+    color: #fff;
+}
+.topdiv{
+    width: 70%;
+    height: 132px;
+    margin: 0 auto;
+    padding-top: 14px;
+}
+
+.topdiv img{
+    width: 100%;
+    height:100%;
+
+}
+
+.product__value_btn {
+      cursor: pointer;
+    display: flex;
+    height: 2.6rem;
+    position: relative;
+    vertical-align: middle;
+    width: 100%;
+    align-items: center;
+    padding-left: 83px;
+}
+.product__value_btn span{
+    margin: 5px;
+}
+.minus{
+    color: #c6c6c6 ;
+    font-size: 20px;
+    padding: 0px;
+}
+.plus{
+    color: #983030;
+    font-size: 16px;
+    padding: 0px;
+    cursor: pointer;
+}
+.basket .fas{
+    color: #d21313 !important;
+}
+.wrap{
+    padding-bottom: 20px;
+}
